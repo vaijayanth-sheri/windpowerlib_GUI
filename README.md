@@ -1,5 +1,5 @@
 ## Intro:
-This Repo simplifies generating annual wind power feedin profilesusing windpowerlib python [https://github.com/wind-python/windpowerlib].
+This Repo simplifies generating annual wind power feedin profiles using windpowerlib python [https://github.com/wind-python/windpowerlib].
 ## usage:
 	* First download the python file [windlib_gui_v2.py].
  	* Install all the requirements in your environment.
